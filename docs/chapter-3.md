@@ -31,4 +31,4 @@ Flux solves this problem with a series of easy to grasp concepts, which bundled 
 - Allows to a actually debug state changes
 - Is declarative
 
-NgRx does the same, but for Angular. If at this point you think "why do I event bother? My app works fine right now", then let's now explore why exactly do we need solutions like NgRx.
+NgRx does the same, but for Angular. If at this point you think "why do I even bother? My app works fine right now", then let's now explore why exactly do we need solutions like NgRx.
